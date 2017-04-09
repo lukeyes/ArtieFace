@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Artie</string>
+
+    <string name="dummy_button">Disconnect</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
